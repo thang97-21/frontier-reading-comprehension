@@ -117,7 +117,7 @@ All findings carry the threats to validity consolidated in §7; the reader is as
 
 A reader unfamiliar with the series needs one piece of context to interpret the dimension analyses: in this work, **Voice Fidelity is not an independent dimension but a precondition for three others.**
 
-The series title 雨森潤奈は湿度が高い ("Amamori Junna's Humidity Is High") names the protagonist's defining trait as the premise. "Humidity" (湿度) is not a description of Junna's personality; it is the organizing metaphor of her voice — damp, heavy, deadpan — against which every other character is calibrated. Shigure's dry tsukkomi exists in response to Junna's deadpan; Yamada's gyaru↔kimoota code-switch exists in contrast to it. The JP source *enacts* these voices structurally rather than describing them: a line such as `「……詩暮」` (three dots, a name, no verb, no emotional tag) carries the deadpan in its syntax, not its vocabulary.
+The series title 雨森潤奈は湿度が高い ("Amamori Junna is High Humid") names the protagonist's defining trait as the premise. "Humidity" (湿度) is not a description of Junna's personality; it is the organizing metaphor of her voice — damp, heavy, deadpan — against which every other character is calibrated. Shigure's dry tsukkomi exists in response to Junna's deadpan; Yamada's gyaru↔kimoota code-switch exists in contrast to it. The JP source *enacts* these voices structurally rather than describing them: a line such as `「……詩暮」` (three dots, a name, no verb, no emotional tag) carries the deadpan in its syntax, not its vocabulary.
 
 This has a measurable consequence. Three dimensions are built on voice:
 
