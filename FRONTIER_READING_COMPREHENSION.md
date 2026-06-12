@@ -329,15 +329,15 @@ Every rendering quoted in §5–§6 is reproduced verbatim from the system's act
 
 | Code | System | Source file |
 |------|--------|-------------|
-| FABLE | Claude Fable 5 (harness) | `MTL_Comparison/CLAUDE_FABLE_5_MAX.md` |
-| FABLE_WEB | Claude Fable 5 Web | `MTL_Comparison/CLAUDE_FABLE_5_EXTRA_WEB.md` |
-| OPUS | Claude Opus 4.7 (harness) | `MTL_Comparison/CLAUDE_OPUS_4.7_MAX.md` |
-| EN | DeepSeek V4 Pro (harness) = DSV4_PRO | `EN/CHAPTER_02_EN.md` |
-| GEMINI | Gemini 3.1 Pro | `MTL_Comparison/GEMINI_3.1_PRO_EXTENDED_THINKING_WEB.md` |
-| CHATGPT | ChatGPT 5.5 | `MTL_Comparison/CHATGPT_5.5_EXTENDED_THINKING.md` |
-| DEEPSEEK | DeepSeek V4 Web | `MTL_Comparison/Deepseek_V4_Thinking.md` |
-| QWEN | Qwen 3.7 Max | `MTL_Comparison/QWEN_3.7_MAX_THINKING.md` |
-| FTL§2 / FTL§3 | Fan TL (Slimey team) | `FTL/OEBPS/Text/Section0002.xhtml`, `…0003.xhtml` |
+| FABLE | Claude Fable 5 (harness) | `CLAUDE_FABLE_5_MAX.md` |
+| FABLE_WEB | Claude Fable 5 Web | `CLAUDE_FABLE_5_EXTRA_WEB.md` |
+| OPUS | Claude Opus 4.7 (harness) | `CLAUDE_OPUS_4.7_MAX.md` |
+| EN | DeepSeek V4 Pro (harness) = DSV4_PRO | `DEEPSEEK_V4_PRO_HARNESS.md` |
+| GEMINI | Gemini 3.1 Pro | `GEMINI_3.1_PRO_EXTENDED_THINKING_WEB.md` |
+| CHATGPT | ChatGPT 5.5 | `CHATGPT_5.5_EXTENDED_THINKING.md` |
+| DEEPSEEK | DeepSeek V4 Web | `Deepseek_V4_Thinking.md` |
+| QWEN | Qwen 3.7 Max | `QWEN_3.7_MAX_THINKING.md` |
+| FTL§2 / FTL§3 | FEMTL (Slimey team) | `FAN_TRANSLATION_SLIMEY_FULL_CHAPTER_02.md` |
 
 The DSV4_PRO run is the pipeline's production output for this chapter; it was confirmed as DeepSeek V4 Pro via `translation_log.jsonl` (`"model": "deepseek-v4-pro"`) and is cited as [EN:line]. The eight LLM files render the same scene with near-identical line alignment (all open with the Bocchi outburst), so cited line numbers are directly comparable. The Fan TL is a machine-translated, multi-pass edited fan release distributed as an EPUB; its prose is split across two section files and uses translator footnotes, cited [FTL§2:line] / [FTL§3:line]. The JP source is the original, not a translation, and is quoted only as the device anchor.
 
@@ -345,10 +345,10 @@ The DSV4_PRO run is the pipeline's production output for this chapter; it was co
 
 | Reasoning-log code | System | Source file |
 |--------------------|--------|-------------|
-| FABLE-TK | Fable 5 (harness) | `THINKING_FABLE/chapter_02_THINKING.md` |
-| OPUS-TK | Opus 4.7 (harness) | `THINKING_EN_OPUS_4.7/chapter_02_THINKING.md` |
-| DSV4-TK | DeepSeek V4 Pro (harness) | `THINKING/chapter_02_THINKING.md` |
-| FABLE_WEB-TK | Fable 5 Web (web trace) | `MTL_Comparison/FLABLE_THINKING_TRACE.md` |
+| FABLE-TK | Fable 5 (harness) | `chapter_02_THINKING_FABLE.md` |
+| OPUS-TK | Opus 4.7 (harness) | `chapter_02_THINKING_OPUS.md` |
+| DSV4-TK | DeepSeek V4 Pro (harness) | `chapter_02_THINKING_DS4P.md` |
+| FABLE_WEB-TK | Fable 5 Web (web trace) | `MTL_Comparison/FABLE_THINKING_TRACE.md` |
 
 The three harness logs are the model's structured `reasoning_content` as captured by the pipeline; the `FABLE_WEB-TK` web trace is a longer free-form deliberation included for the harness-vs-web contrast (§6.3). No reasoning log exists in the evidence set for the five web contestants' final outputs (ChatGPT, Gemini, web DeepSeek, Qwen, and the Fan TL), so process-tracing claims in §5.9 are scoped to the three harness models plus the Fable web trace, and are never extended to systems whose reasoning was not captured.
 
