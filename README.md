@@ -10,7 +10,7 @@ This repository contains an academic case study evaluating how nine translation 
 
 The scene was chosen for one specific property: it is the densest concentration in its three-volume series of **self-contained meta-linguistic devices** — literary constructions gradeable within a single chapter, without cross-volume memory. Every contestant produces fluent, grammatical English. The study therefore measures *comprehension*, not *proficiency*: its discriminating failures are overwhelmingly cases where a system understood the words but not what the author was doing with them.
 
-**Read the paper:** [`FRONTIER_EVALUATION_ACADEMIC.md`](./FRONTIER_EVALUATION_ACADEMIC.md)
+**Read the paper:** [`FRONTIER_READING_COMPREHENSION.md`](./FRONTIER_READING_COMPREHENSION.md)
 
 Repository metadata:
 
