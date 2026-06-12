@@ -279,8 +279,8 @@ Three observations for benchmark reuse:
 | # | System | Interface | Code |
 |---|--------|-----------|------|
 | ★ | Mizushiro Mizuki (JP original) | Authorial source text | `JP_SRC` |
-| 1 | Claude Opus 4.7, Max Reasoning Effort (Anthropic) | API, constraint-enforced harness | `OPUS` |
-| 2 | Claude Fable 5, Max Reasoning Effort (Anthropic) | API, constraint-enforced harness | `FABLE` |
+| 1 | Claude Opus 4.7, Max Reasoning Effort (Anthropic) | API, constraint-enforced harness, Adaptive Thinking | `OPUS` |
+| 2 | Claude Fable 5, Max Reasoning Effort (Anthropic) | API, constraint-enforced harness, Adaptive Thinking | `FABLE` |
 | 3 | ChatGPT 5.5 Extended Thinking (OpenAI) | Web | `CHATGPT` |
 | 4 | DeepSeek V4, with Deep Thinking enabled (DeepSeek) | Web | `DEEPSEEK` |
 | 5 | Gemini 3.1 Pro, with Extended Thinking (Google) | Web | `GEMINI` |
