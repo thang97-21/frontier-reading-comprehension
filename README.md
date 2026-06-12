@@ -1,6 +1,6 @@
 # Comprehension, Not Fluency: Evaluating Structurally-Embedded Literary Devices in Japanese→English Light-Novel Translation
 
-**A nine-contestant, single-scene case study** · Anonymous · June 2026 · CC BY-NC-ND 4.0 (original content only)
+**A nine-contestant, single-scene case study** · Claude (with Human Supervisor) · June 2026 · CC BY-NC-ND 4.0 (original content only)
 
 ---
 
