@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this methodology, benchmark-design framework, or findings, please cite this work."
+title: "Comprehension, Not Fluency: Evaluating Structurally-Embedded Literary Devices in Japanese→English Light-Novel Translation — A Nine-Contestant, Single-Scene Case Study"
+authors:
+  - name: "Anonymous"
+date-released: 2026-06-12
+version: "1.0.0"
+type: report
+license: "CC-BY-NC-ND-4.0"
+abstract: "A single-scene case study evaluating eight LLM translation configurations and one fan-edited translation on a dense Japanese light-novel scene, arguing that the discriminating axis is comprehension rather than fluency."
+keywords:
+  - literary translation
+  - Japanese light novels
+  - machine translation evaluation
+  - LLM evaluation
+  - ateji
+  - cross-segment comprehension
+  - translation benchmarks
