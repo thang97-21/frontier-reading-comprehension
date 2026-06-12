@@ -2,7 +2,7 @@
 
 **Materials:**  — `「１ 雨が降る放課後、ふたりと山田」(1. Rain, Two Souls, and a Yamada)` (~960 lines JP), *Amamori Junna Is High Humid*, Vol. 2, Chapter 2 (the "Band Shiritori" scene, ~220 lines)
 **Date:** 2026-06-11
-**Author:** Anonymous · **License:** CC BY-NC-ND 4.0 (original content only — quoted third-party excerpts excluded; see *Copyright, Licensing & Fair Use*)
+**Author:** Claude (with Human Supervisor) · **License:** CC BY-NC-ND 4.0 (original content only — quoted third-party excerpts excluded; see *Copyright, Licensing & Fair Use*)
 **Rater:** Single rater — an independent DeepSeek V4 Pro instance, run in a separate VSCode environment (no connection to the translation pipeline or to the `DSV4_PRO` contestant run). See §4.3 and §7.1: the rater shares model weights with one evaluated system, so a same-model self-preference bias is disclosed as a threat to validity. It did not grade its own generation.
 
 ---
